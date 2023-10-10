@@ -1,4 +1,4 @@
-# Lung Model Simulation Project - README
+# Lung Model Simulation Project 
 
 ## Problem Statement
 
